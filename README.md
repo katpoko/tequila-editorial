@@ -3,4 +3,5 @@
 > **NOTE:** This is a work in progress.
 
 ## Citations
-favicons
+https://favicon.io/
+https://en.wikipedia.org/wiki/Tequila
