@@ -1,5 +1,5 @@
-/* fontshare font bevellier */
-@import url('bevellier.css')
+/* fontshare font */
+@import url('bevellier.css');
 /* https://unsplash.com/photos/man-riding-horse-on-green-agave-plants-field-h2-H_7FPbnw */
 /* Setup Scrolling */
 
@@ -43,7 +43,7 @@ body {
 }
 
 .one, .two, .three, .four, .five {
-  font-family: 'Bevellier-BoldItalic', sans-serif;
+  /* font-family: 'Bevellier-BoldItalic'; */
   color: white;
 }
 
@@ -73,8 +73,10 @@ footer {
   font-size: 12px;
   color: black;
   font-weight: bold;
-  font-family: 'Bevellier', sans-serif;
+  font-family: 'Tanker-Regular';
 }
-h1 {
-  font-family: 'Tanker', sans-serif;
+
+h1{
+  font-size: 3em;
+  font-family: 'Bevellier-BoldItalic';
 }
