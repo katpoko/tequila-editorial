@@ -43,8 +43,6 @@ body {
 }
 
 .one, .two, .three, .four, .five {
-  background-repeat: no-repeat; 
-  background-size: 100%;
   font-family: 'Bevellier-BoldItalic', sans-serif;
   color: white;
 }

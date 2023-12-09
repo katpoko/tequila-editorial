@@ -42,7 +42,7 @@ gsap.to(".three", {
 // Panel Four
 gsap.to(".four", {
   scrollTrigger: "four",
-  color: "red"
+  // color: "red"
 });
 
 // Panel Five
