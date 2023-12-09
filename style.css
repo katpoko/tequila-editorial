@@ -3,15 +3,7 @@
 /* https://unsplash.com/photos/man-riding-horse-on-green-agave-plants-field-h2-H_7FPbnw */
 /* Setup Scrolling */
 
-@font-face {
-  font-family: 'Bevellier-LightItalic';
-  src: url('../fonts/Bevellier-LightItalic.woff2') format('woff2'),
-       url('../fonts/Bevellier-LightItalic.woff') format('woff'),
-       url('../fonts/Bevellier-LightItalic.ttf') format('truetype');
-       font-weight: 300;
-       font-display: swap;
-       font-style: italic;
-}
+
 
 html,
 body {
