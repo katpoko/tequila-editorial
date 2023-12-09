@@ -3,5 +3,7 @@
 > **NOTE:** This is a work in progress.
 
 ## Citations
-https://favicon.io/
-https://en.wikipedia.org/wiki/Tequila
+*[Favicons](https://favicon.io/)
+*[Wikipedia](https://en.wikipedia.org/wiki/Tequila)
+*[Adobe Firefly](https://www.adobe.com/products/firefly.html)
+*[Unsplash](https://unsplash.com/)
