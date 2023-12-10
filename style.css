@@ -43,8 +43,8 @@ body {
 }
 
 .one, .two, .three, .four, .five {
-  /* font-family: 'Bevellier-BoldItalic'; */
-  color: white;
+  font-family: 'Bevellier-Variable';
+  color: hsla(233, 5%, 100%, 1);
 }
 
 .one {
@@ -73,10 +73,44 @@ footer {
   font-size: 12px;
   color: black;
   font-weight: bold;
-  font-family: 'Tanker-Regular';
+  font-family: 'Bevellier-Regular';
+  color: whitesmoke;
+}
+h1 {
+  font-size: 3em;  
+  font-family: 'Bevellier-MediumItalic';
+}
+h1, #copy1, #copy2, #copy3, #copy4, #copy5 {
+  /* font-family: 'Bevellier-MediumItalic'; */
+  border-radius: 20px;
+  padding: 15px 20px 15px 20px;
+  display: flex;
+  justify-content: center;
 }
 
-h1{
-  font-size: 3em;
-  font-family: 'Bevellier-BoldItalic';
-}
+#highlight, #copy1 {
+  background: hsla(213, 33%, 48%, 0.7);
+  display: flex;
+    justify-content: center;
+  }
+
+  #highlight2, #copy2 {
+
+    background: hsla(70, 59%, 20%, 0.7)
+    
+    
+    }
+    
+    #highlight3, #copy3 {
+    background: hsla(16, 65%, 35%, 0.7);
+    
+    }
+    
+    #highlight4, #copy4 {
+    background: hsla(213, 50%, 80%, 0.7)
+    }
+    
+    #highlight5, #copy5 {
+    background: hsla(16, 65%, 15%, 0.7);
+    }
+    
