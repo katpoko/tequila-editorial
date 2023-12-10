@@ -78,10 +78,14 @@ footer {
 }
 h1 {
   font-size: 3em;  
-  font-family: 'Bevellier-MediumItalic';
+  font-family: 'Bevellier-MediumItalic';  border-radius: 20px;
+  padding: 15px 20px 15px 20px;
+  display: flex;
+  justify-content: center;
 }
-h1, #copy1, #copy2, #copy3, #copy4, #copy5 {
-  /* font-family: 'Bevellier-MediumItalic'; */
+ #copy1, #copy2, #copy3, #copy4, #copy5 {
+  font-family: 'Bevellier-Light';
+  font-size: 1.5em;
   border-radius: 20px;
   padding: 15px 20px 15px 20px;
   display: flex;
