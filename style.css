@@ -71,14 +71,24 @@ body {
 
 footer {
   font-size: 12px;
-  color: black;
+  color: whitesmoke
   font-weight: bold;
   font-family: 'Bevellier-Regular';
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
   color: whitesmoke;
 }
+
+a:hover { 
+  text-decoration: underline overline blue;
+}
+
 h1 {
   font-size: 3em;  
-  font-family: 'Bevellier-MediumItalic';  border-radius: 20px;
+  font-family: 'Bevellier-MediumItalic'; 
+   border-radius: 20px;
   padding: 15px 20px 15px 20px;
   display: flex;
   justify-content: center;
@@ -99,7 +109,6 @@ h1 {
   }
 
   #highlight2, #copy2 {
-
     background: hsla(70, 59%, 20%, 0.7)
     
     
