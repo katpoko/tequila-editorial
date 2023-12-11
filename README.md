@@ -1,6 +1,6 @@
 # Tequila Editorial Design
 
-> **NOTE:** This is a work in progress.
+> **NOTE:** This is v1.0 
 
 ## Citations
 *[Favicons](https://favicon.io/)
