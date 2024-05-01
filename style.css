@@ -1,5 +1,6 @@
 /* fontshare font */
 @import url('bevellier.css');
+@import url('tabular.css');
 /* https://unsplash.com/photos/man-riding-horse-on-green-agave-plants-field-h2-H_7FPbnw */
 /* Setup Scrolling */
 
@@ -43,7 +44,7 @@ body {
 }
 
 .one, .two, .three, .four, .five {
-  font-family: 'Bevellier-Variable';
+  font-family: Tabular-Regular;
   color: hsla(233, 5%, 100%, 1);
 }
 
