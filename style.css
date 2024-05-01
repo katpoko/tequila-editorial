@@ -43,9 +43,14 @@ body {
   padding: 3em;
 }
 
-.one, .two, .three, .four, .five {
+.one, .two, .three, .four, .five, .six, .zero {
   font-family: Tabular-Regular;
   color: hsla(233, 5%, 100%, 1);
+}
+
+.zero {
+  background: url(https://source.unsplash.com/h2-H_7FPbnw) no-repeat center/cover;
+
 }
 
 .one {
@@ -70,40 +75,48 @@ body {
   background: url(https://source.unsplash.com/fulpvaLUX3A) no-repeat center/cover;
 }
 
+.six
+{
+  background: url(https://source.unsplash.com/fulpvaLUX3A) no-repeat center/cover;
+}
+
 footer {
   font-size: 12px;
-  color: whitesmoke
+  color: whitesmoke;
   font-weight: bold;
-  font-family: 'Bevellier-Regular';
+  font-family: monospace;
   text-decoration: none;
 }
 a {
   text-decoration: none;
   color: whitesmoke;
+  font-family: monospace;
 }
 
 a:hover { 
-  text-decoration: underline overline blue;
+  /* text-decoration: underline overline blue; */
+  color: rgb(236, 108, 236);
 }
 
-h1 {
+h1, span {
   font-size: 3em;  
-  font-family: 'Bevellier-MediumItalic'; 
-   border-radius: 20px;
+  font-family: monospace;
+  /* border-radius: 20px; */
   padding: 15px 20px 15px 20px;
   display: flex;
   justify-content: center;
+  text-align: center;
 }
- #copy1, #copy2, #copy3, #copy4, #copy5 {
-  font-family: 'Bevellier-Light';
+ #copy1, #copy2, #copy3, #copy4, #copy5, #copy6 {
+  font-family: monospace;
   font-size: 1.5em;
-  border-radius: 20px;
+  /* border-radius: 20px; */
   padding: 15px 20px 15px 20px;
   display: flex;
   justify-content: center;
 }
 
-#highlight, #copy1 {
+#highlight, #copy1, span {
   background: hsla(213, 33%, 48%, 0.7);
   display: flex;
     justify-content: center;
@@ -124,7 +137,7 @@ h1 {
     background: hsla(213, 50%, 80%, 0.7)
     }
     
-    #highlight5, #copy5 {
+    #highlight5, #copy5, #highlight6, #copy6 {
     background: hsla(16, 65%, 15%, 0.7);
     }
     

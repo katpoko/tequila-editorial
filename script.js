@@ -24,6 +24,11 @@ gsap.to(sections, {
   }
 });
 
+// Panel Zero
+gsap.to(".zero", {
+  scrollTrigger: "zero"
+});
+
 // Panel One
 gsap.to(".one", {
   scrollTrigger: "one"
@@ -48,4 +53,9 @@ gsap.to(".four", {
 // Panel Five
 gsap.to(".five h1", {
   scrollTrigger: "five"
+});
+
+// Panel Six
+gsap.to(".six", {
+  scrollTrigger: "six"
 });
