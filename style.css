@@ -1,7 +1,6 @@
 /* fontshare font */
-@import url('bevellier.css');
 @import url('tabular.css');
-/* https://unsplash.com/photos/man-riding-horse-on-green-agave-plants-field-h2-H_7FPbnw */
+
 /* Setup Scrolling */
 
 
@@ -132,8 +131,8 @@ a:hover {
 
   #highlight2, #copy2 {
     background: hsla(70, 59%, 20%, 0.7);
-    
-    
+  
+  
     }
     
     #highlight3, #copy3 {
@@ -152,7 +151,8 @@ a:hover {
       background: hsla(70, 91%, 21%, 0.7);
     }
     #highlight0, #copy0 {
-      background: rgb(69, 47, 51, 0.7); }
+      background: rgb(69, 47, 51, 0.7); 
+    }
 
 
       

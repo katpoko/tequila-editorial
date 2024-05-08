@@ -12,7 +12,7 @@ gsap.registerPlugin(ScrollTrigger);
 let sections = gsap.utils.toArray(".panel");
 // Set Panels to horizontally scroll
 gsap.to(sections, {
-  xPercent: -100 * (sections.length - 1),
+  xPercent: - 100 * (sections.length - 1),
   ease: "none",
   scrollTrigger: {
     trigger: ".container",
