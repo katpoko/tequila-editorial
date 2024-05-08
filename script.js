@@ -51,7 +51,7 @@ gsap.to(".four", {
 });
 
 // Panel Five
-gsap.to(".five h1", {
+gsap.to(".five", {
   scrollTrigger: "five"
 });
 
@@ -59,3 +59,5 @@ gsap.to(".five h1", {
 gsap.to(".six", {
   scrollTrigger: "six"
 });
+
+
