@@ -88,13 +88,13 @@ footer {
   text-decoration: none;
 }
 a {
-  text-decoration: none;
-  color: whitesmoke;
+  text-decoration: underline 2px rgb(0, 162, 255);
+  color: rgb(0, 162, 255);
   font-family: monospace;
 }
 
 a:hover { 
-  /* text-decoration: underline overline blue; */
+  text-decoration: underline overline 1px rgb(0, 162, 255);
   color: rgb(236, 108, 236);
 }
 
@@ -122,8 +122,14 @@ h1, span {
     justify-content: center;
   }
 
+/* span {
+  background: hsla(213, 33%, 48%, 0.7);
+  display: flex;
+    justify-content: center;
+  } */
+
   #highlight2, #copy2 {
-    background: hsla(70, 59%, 20%, 0.7)
+    background: hsla(70, 59%, 20%, 0.7);
     
     
     }
@@ -134,10 +140,14 @@ h1, span {
     }
     
     #highlight4, #copy4 {
-    background: hsla(213, 50%, 80%, 0.7)
+    background: hsla(213, 50%, 80%, 0.7);
     }
     
-    #highlight5, #copy5, #highlight6, #copy6 {
+    #highlight5, #copy5 {
     background: hsla(16, 65%, 15%, 0.7);
     }
-    
+    #highlight6, #copy6 {
+      background: hsla(70, 91%, 21%, 0.7);
+    }
+    #highlight0, #copy0 {
+      background: rgb(69, 47, 51, 0.7); }
