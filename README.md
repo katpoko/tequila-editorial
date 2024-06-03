@@ -1,6 +1,7 @@
 # Tequila Editorial Design
 
-> **NOTE:** This is v1.0 
+> **NOTE:** This is v2.0
+> **Deployment:** [Editorial Design](https://tequila101.netlify.app/)
 
 ## Citations
 *[Favicons](https://favicon.io/)
